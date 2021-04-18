@@ -6,6 +6,18 @@ A lightweight .NET API libary for Whale Alert API.
 
 - All features from the [Whale Alert API](https://docs.whale-alert.io/) are included. 
 
+
+
+### Installation
+![Nuget version](https://img.shields.io/nuget/v/whalealert.net.svg)  ![Nuget downloads](https://img.shields.io/nuget/dt/whalealert.net.svg)
+
+Available on [Nuget](https://www.nuget.org/packages/WhaleAlert.NET/)
+> npm install WhaleAlert.NET
+
+
+
+### How to use
+
 ```csharp
 
 WhaleAlert whaleAlert = new WhaleAlert("ABCDEFGH");
