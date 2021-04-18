@@ -19,7 +19,8 @@ Available on [Nuget](https://www.nuget.org/packages/WhaleAlert.NET/)
 ### How to use
 
 ```csharp
-
+using WhaleAlertAPI;
+...
 WhaleAlert whaleAlert = new WhaleAlert("ABCDEFGH");
 StatusResponse Status = whaleAlert.GetStatus();
 TransactionResponse transactionResponse = whaleAlert.GetTransaction("ethereum", "0015286d8642f0e0553b7fefa1c168787ae71173cbf82ec2f2a1b2e0ffee72b2");
