@@ -15,8 +15,6 @@ A lightweight .NET API libary for Whale Alert API.
 
 
 Available on [Nuget](https://www.nuget.org/packages/WhaleAlert.NET/)
-> npm install WhaleAlert.NET
-
 
 
 ### How to use
