@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WTY7reCk+7Vw0lw0Zd4OIZdF7MTSWhGASh9+TJOlyCUgyXkHLmUXO9tILCccgXDctxtfcKgh1InsQOFBJb+q+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marvin\\source\\repos\\WhaleAlertExample\\WhaleAlertExample\\WhaleAlertExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marvin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Marvin\\.nuget\\packages\\whalealert.net\\1.0.4\\whalealert.net.1.0.4.nupkg.sha512",
+    "C:\\Users\\Marvin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\Marvin\source\repos\WhaleAlertExample\WhaleAlertExample\obj\Debug\netcoreapp3.1\WhaleAlertExample.csprojAssemblyReference.cache
+C:\Users\Marvin\source\repos\WhaleAlertExample\WhaleAlertExample\obj\Debug\netcoreapp3.1\WhaleAlertExample.AssemblyInfoInputs.cache
+C:\Users\Marvin\source\repos\WhaleAlertExample\WhaleAlertExample\obj\Debug\netcoreapp3.1\WhaleAlertExample.AssemblyInfo.cs
+C:\Users\Marvin\source\repos\WhaleAlertExample\WhaleAlertExample\obj\Debug\netcoreapp3.1\WhaleAlertExample.csproj.CoreCompileInputs.cache
+C:\Users\Marvin\source\repos\WhaleAlertExample\WhaleAlertExample\bin\Debug\netcoreapp3.1\WhaleAlertExample.exe
+C:\Users\Marvin\source\repos\WhaleAlertExample\WhaleAlertExample\bin\Debug\netcoreapp3.1\WhaleAlertExample.deps.json
+C:\Users\Marvin\source\repos\WhaleAlertExample\WhaleAlertExample\bin\Debug\netcoreapp3.1\WhaleAlertExample.runtimeconfig.json
+C:\Users\Marvin\source\repos\WhaleAlertExample\WhaleAlertExample\bin\Debug\netcoreapp3.1\WhaleAlertExample.runtimeconfig.dev.json
+C:\Users\Marvin\source\repos\WhaleAlertExample\WhaleAlertExample\bin\Debug\netcoreapp3.1\WhaleAlertExample.dll
+C:\Users\Marvin\source\repos\WhaleAlertExample\WhaleAlertExample\bin\Debug\netcoreapp3.1\WhaleAlertExample.pdb
+C:\Users\Marvin\source\repos\WhaleAlertExample\WhaleAlertExample\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Marvin\source\repos\WhaleAlertExample\WhaleAlertExample\bin\Debug\netcoreapp3.1\WhaleAlertAPI.dll
+C:\Users\Marvin\source\repos\WhaleAlertExample\WhaleAlertExample\obj\Debug\netcoreapp3.1\WhaleAlertExample.csproj.CopyComplete
+C:\Users\Marvin\source\repos\WhaleAlertExample\WhaleAlertExample\obj\Debug\netcoreapp3.1\WhaleAlertExample.dll
+C:\Users\Marvin\source\repos\WhaleAlertExample\WhaleAlertExample\obj\Debug\netcoreapp3.1\WhaleAlertExample.pdb
+C:\Users\Marvin\source\repos\WhaleAlertExample\WhaleAlertExample\obj\Debug\netcoreapp3.1\WhaleAlertExample.genruntimeconfig.cache
