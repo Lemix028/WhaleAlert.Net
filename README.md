@@ -9,7 +9,7 @@ A lightweight .NET API libary for Whale Alert API.
 
 
 ### Installation
-![Nuget version](https://img.shields.io/nuget/v/whalealert.net.svg)  ![Nuget downloads](https://img.shields.io/nuget/dt/whalealert.net.svg)
+![Nuget version](https://img.shields.io/nuget/v/whalealert.net.svg)  ![Nuget downloads](https://img.shields.io/nuget/dt/whalealert.net.svg) ![License](https://img.shields.io/github/license/lemix028/whalealert.net)
 
 Available on [Nuget](https://www.nuget.org/packages/WhaleAlert.NET/)
 > npm install WhaleAlert.NET
